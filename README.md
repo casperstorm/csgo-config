@@ -11,5 +11,4 @@ edpi: 800
 ```
 
 ### Location
-- [video.txt](https://github.com/casperstorm/csgo-config/blob/master/video.txt) - `Steam\userdata\[ID]\730\local\cfg\video.txt`
-- [autoexec.cfg](https://github.com/casperstorm/csgo-config/blob/master/autoexec.cfg) - `Counter-Strike Global Offensive\csgo\cfg\autoexec.cfg`
+Both files should be placed here at `Steam\userdata\[ID]\730\local\cfg\`
