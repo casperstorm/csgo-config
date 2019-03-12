@@ -1,7 +1,7 @@
 ## Personal CSGO Config
 
 ### Launch options
-`-novid -freq 144 -tickrate 128 -nojoy -nod3d9ex +mat_queue_mode 2`
+`-novid -freq 144 -tickrate 128 -nojoy -d3d9ex +mat_queue_mode 2`
 
 ### EDPI
 ```
