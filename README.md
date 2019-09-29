@@ -1,7 +1,7 @@
 ## Personal CSGO Config
 
 ### Launch options
-`-novid -nojoy`
+`-novid -nojoy -no-browser`
 
 ### EDPI
 ```
