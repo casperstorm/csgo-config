@@ -1,7 +1,8 @@
 ## Personal CSGO Config
 
 ### Launch options
-`-novid -no-browser`
+`-novid`  
+[*Why only `-novid`?*](https://www.reddit.com/r/CounterStrikeBinds/comments/8c31oo/ubirkirs_updated_csgo_tips_configs_and_more/)
 
 ### EDPI
 ```
