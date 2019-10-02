@@ -10,8 +10,6 @@
 -mat_queue_mode? [No.](https://www.reddit.com/r/GlobalOffensive/comments/5zkpwn/in_depth_discussion_of_mat_queue_mode_and_mat/)  
 -exec autoexec? Have you tried [host_writeconfig?](https://www.reddit.com/r/GlobalOffensive/comments/8ax858/updated_csgo_tips_configs_and_more/)  
 -refresh, -hz? CSGO will regardless run at your default refresh rate.  
-  
-*(Thanks [/u/birkir](https://www.reddit.com/user/birkir/))*
 
 ### EDPI
 
