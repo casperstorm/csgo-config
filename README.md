@@ -2,14 +2,15 @@
 
 ### Launch options
 `-novid`  
-[*Why only `-novid`?*](https://www.reddit.com/r/CounterStrikeBinds/comments/8c31oo/ubirkirs_updated_csgo_tips_configs_and_more/)
+[(*Why so few?*)](https://www.reddit.com/r/CounterStrikeBinds/comments/8c31oo/ubirkirs_updated_csgo_tips_configs_and_more/)
 
 ### EDPI
-```
-dpi: 1600 
-sensitivity: 0.5 
-edpi: 800
-```
+
+| EDPI        	| 800  	|
+|-------------	|------	|
+| Sensitivity 	| 0.5  	|
+| DPI         	| 1600 	|
+ 
 
 ### Install
 Put the files into the following folder if you have only one account or if you want the same autoexec to be used on multiple accounts:
