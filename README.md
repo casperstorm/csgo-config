@@ -24,7 +24,7 @@ Put the files into the following folder if you want separate autoexec's (and vid
 ```
 
 ### Radeon CSGO Profile Settings
-|                             	|                                  	|
+| Mode                         | Value                            	|
 |-----------------------------	|----------------------------------	|
 | Anti-aliasing Mode          	| Use application settings         	|
 | Morphlogical Filtering      	| Off                              	|
