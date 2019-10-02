@@ -24,18 +24,18 @@ Put the files into the following folder if you want separate autoexec's (and vid
 ```
 
 ### Radeon CSGO Profile Settings
-```
-Anti-aliasing Moe: Use application settings 
-Morphlogical Filtering: Off 
-Anisotropic Filtering Mode: Use application settings
-Texture Filtering Quality: Performance
-Surface Format Optimization: Off
-Wait for Vertical Sync: Always Off
-OpenGL Triple Buffering: Off
-Shader Cache: On
-Tessellation Mode: Use application settings
-Radeon FreeSync: On (capping FPS using RTSS)
-Display Scaling: Off
-Radeon Anti-Lag: Off (enable if GPU is maxed out)
-Chill (FPS): Off
-```
+|                             	|                                  	|
+|-----------------------------	|----------------------------------	|
+| Anti-aliasing Mode          	| Use application settings         	|
+| Morphlogical Filtering      	| Off                              	|
+| Anisotropic Filtering Mode  	| Use application settings         	|
+| Texture Filtering Quality   	| Performance                      	|
+| Surface Format Optimization 	| Off                              	|
+| Wait for Vertical Sync      	| Always Off                       	|
+| OpenGL Triple Buffering     	| Off                              	|
+| Shader Cache                	| On                               	|
+| Tessellation Mode           	| Use application settings         	|
+| Radeon FreeSync             	| On (capping FPS using RTSS)      	|
+| Display Scaling             	| Off                              	|
+| Radeon Anti-Lag             	| Off (enable if GPU is maxed out) 	|
+| Chill (FPS)                 	| Off                              	|
