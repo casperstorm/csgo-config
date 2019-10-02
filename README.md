@@ -11,7 +11,7 @@
 -exec autoexec? Have you tried [host_writeconfig?](https://www.reddit.com/r/GlobalOffensive/comments/8ax858/updated_csgo_tips_configs_and_more/)  
 -refresh, -hz? CSGO will regardless run at your default refresh rate.  
   
-*Thanks [/u/birkir](https://www.reddit.com/user/birkir/)*
+*(Thanks [/u/birkir](https://www.reddit.com/user/birkir/))*
 
 ### EDPI
 
