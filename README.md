@@ -11,7 +11,7 @@
 -exec autoexec? Have you tried [host_writeconfig?](https://www.reddit.com/r/GlobalOffensive/comments/8ax858/updated_csgo_tips_configs_and_more/)  
 -refresh, -hz? CSGO will regardless run at your default refresh rate.  
 
-### EDPI
+### Sensitivity & EDPI
 
 |     EDPI    	|  800 	|
 |:-----------:	|:----:	|
@@ -29,6 +29,10 @@ Put the files into the following folder if you want separate autoexec's (and vid
 ```
 ...\Steam\userdata\<YOURID>\730\local\cfg
 ```
+
+### Other
+`practice` in console will execute a practice module.
+
 
 ### Radeon CSGO Profile Settings
 | Mode                         | Value                            	|
