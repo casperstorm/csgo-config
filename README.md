@@ -1,8 +1,17 @@
 ## Personal CSGO Config
 
 ### Launch options
-`-novid`  
-[(*Why so few?*)](https://www.reddit.com/r/CounterStrikeBinds/comments/8c31oo/ubirkirs_updated_csgo_tips_configs_and_more/)
+`-novid -tickrate 128`
+
+**Why not:**  
+-threads? [Fuck that.](https://www.reddit.com/r/GlobalOffensive/comments/5y8r7v/in_depth_discussion_of_the_threads_launch_option/)  
+-nod3d9ex? [vMcJohn denies](https://www.reddit.com/r/GlobalOffensive/comments/6ndpi4/are_nod3d9ex_mat_queue_mode_2_still_good_launch/)  
+-high? [Wrecks](https://www.reddit.com/r/GlobalOffensive/comments/5pxtqi/is_it_worth_using_threads_4_and_high_in_launch/dcuzf2d/) system [stability.](https://www.reddit.com/r/GlobalOffensive/comments/5bsw4m/help_with_launch_settings_needed/d9r2860/)  
+-mat_queue_mode? [No.](https://www.reddit.com/r/GlobalOffensive/comments/5zkpwn/in_depth_discussion_of_mat_queue_mode_and_mat/)  
+-exec autoexec? Have you tried [host_writeconfig?](https://www.reddit.com/r/GlobalOffensive/comments/8ax858/updated_csgo_tips_configs_and_more/)  
+-refresh, -hz? CSGO will regardless run at your default refresh rate.  
+  
+*Thanks [/u/birkir](https://www.reddit.com/user/birkir/)*
 
 ### EDPI
 
