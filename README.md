@@ -12,10 +12,14 @@ edpi: 800
 
 ### Install
 Put the files into the following folder if you have only one account or if you want the same autoexec to be used on multiple accounts:
-```...\SteamApps\common\Counter-Strike Global Offensive\csgo\cfg```
+```
+...\SteamApps\common\Counter-Strike Global Offensive\csgo\cfg
+```
 
 Put the files into the following folder if you want separate autoexec's (and video) for each account (i.e. If you share your PC with your family/friends):
-```...\Steam\userdata\<YOURID>\730\local\cfg```
+```
+...\Steam\userdata\<YOURID>\730\local\cfg
+```
 
 ### Radeon CSGO Profile Settings
 ```
